@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+uv.lock
+
+resized_flowers102/
+GENIMG/
+generated_images/
+data/flowers-102/
+
+*.pth
+*.csv
