@@ -16,4 +16,4 @@ generated_images/
 data/flowers-102/
 
 *.pth
-*.csv
+# *.csv
